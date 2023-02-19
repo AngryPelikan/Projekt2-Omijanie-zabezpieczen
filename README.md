@@ -1,1 +1,0 @@
-# Projekt2-Omijanie-zabezpieczen
