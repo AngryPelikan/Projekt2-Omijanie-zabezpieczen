@@ -144,7 +144,7 @@ Eksport plików podsłuchanych whiresharkiem
 ![[wiresharkFTPEksportPlikow.png]]
 
 Eksportowane pliki z whiresharka 
-![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/FTPprzechwyconePliki.png?raw=true)
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/FTPprzechwyconePliki.png?raw=true)
 
 # Zadanie 6 - Eternal Blue (wykonane na platformie TryHackMe)
 
