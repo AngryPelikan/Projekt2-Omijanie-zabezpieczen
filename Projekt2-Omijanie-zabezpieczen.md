@@ -108,40 +108,40 @@ sudo hashcat -m 1700 --show 470c62e301c771f12d91a242efbd41c5e467cba7419c664f784d
 # Zadanie 3 - Analiza ruchu HTTP
 
 Podjęcie próby logowania z włączonym Whiresharkiem
-![alt text]([http://url/to/img.png](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/strona.png))
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/strona.png?raw=true)
 
 Podsłuchane dane
-![[nasłuchiwanie.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/nas%C5%82uchiwanie.png?raw=true)
 
 Przesłane dane logowania w plaintexcie
-![[nasłuchiwanie2.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/nas%C5%82uchiwanie2.png?raw=true)
 
 
 # Zadanie 4 - Analiza ruchu SSH
 
 Nawiązanie połączenia po ssh
-![[sshpolaczenie.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/sshpolaczenie.png?raw=true)
 
 Stworzenie plików z zawartością
-![[dodatkoweplikihasla.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/dodatkoweplikihasla.png?raw=true)
 
 Edycja konfiguracji vsFTPd, żeby umożliwić wgrywanie plików po FTP.
-![[dodatkoweFTPplikiprzesylanienanoodkomentowanie 1.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/dodatkoweFTPplikiprzesylanienanoodkomentowanie%201.png?raw=true)
 
 Ruch po SSH jest zaszyfrowany 
-![[dodatkoweSSHBezpiecznePNG.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/dodatkoweSSHBezpiecznePNG.png?raw=true)
 
 
 # Zadanie 5 - Analiza ruchu FTP
 
 Nawiązanie połączenia po FTP
-![[ftp.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/ftp.png?raw=true)
 
 Przesłanie oraz ściągniecie plików
-![[FTPprzesylanieplikow.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/FTPprzesylanieplikow.png?raw=true)
 
 Eksport plików podsłuchanych whiresharkiem
-![[wiresharkFTPEksportPlikow.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/wiresharkFTPEksportPlikow.png?raw=true)
 
 Eksportowane pliki z whiresharka 
 ![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/FTPprzechwyconePliki.png?raw=true)
@@ -149,10 +149,10 @@ Eksportowane pliki z whiresharka
 # Zadanie 6 - Eternal Blue (wykonane na platformie TryHackMe)
 
 Wykrywanie podatności Nmapem
-![[podatnosc.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/podatnosc.png?raw=true)
 
 Wyszukanie podatności w metasploicie
-![[eternal1.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/eternal1.png?raw=true)
 
 Konfiguracja exploita i wykonanie go 
-![[eternal2.png]]
+![alt text](https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/eternal2.png?raw=true)
