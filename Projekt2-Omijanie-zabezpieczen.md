@@ -108,7 +108,7 @@ sudo hashcat -m 1700 --show 470c62e301c771f12d91a242efbd41c5e467cba7419c664f784d
 # Zadanie 3 - Analiza ruchu HTTP
 
 Podjęcie próby logowania z włączonym Whiresharkiem
-![[strona.png]]
+![[https://github.com/AngryPelikan/Projekt2-Omijanie-zabezpieczen/blob/main/images/strona.png]]
 
 Podsłuchane dane
 ![[nasłuchiwanie.png]]
