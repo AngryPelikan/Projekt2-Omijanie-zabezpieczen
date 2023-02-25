@@ -50,7 +50,8 @@ sudo hashcat -m 1700 --show 8a04bd2d079ee38f1af784317c4e2442625518780ccff3213feb
 Possible Hashs:
 [+] SHA-512
 [+] Whirlpool
-Nie udało się, zbyt długo trwa.
+hashcat -a 3 -m 1700 -4 ?l?u?d?s C:\Users\Admin\Desktop\hash.txt ?4?4?4?4?4?4
+44d9886c0a57ddbfdb31aa936bd498bf2ab70f741ee47047851e768db953fc4e43f92be953e205a3d1b3ab752ed90379444b651b582b0bc209a739a624e109da:T0^^3k
 
 # Zadanie 2 - Łamanie haseł (met.słownikowa)
 
